@@ -1,0 +1,2 @@
+Project objective: Classify survival of titanic passengers based upon given features
+Problem type: Binary classification - Survived(1)/Killed(0)
